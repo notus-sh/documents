@@ -19,16 +19,16 @@ The care that you bring to the writing of content on your site is a fundamental 
 
 ### Start at the end
 
-**Get straight to the point**. Avoid introducing a subject with an ambiguous welcoming paragraph or with terms of use. A text for the web should be written "upside down", presenting **above all the most essential points**, before developing them below. In this way, the Internet user quickly accesses the useful information, then they will progress to read the areas that interest them.
+**Get straight to the point**. Avoid introducing a subject with an ambiguous welcoming paragraph or foreword. A text for the web should be written "upside down", presenting **above all the most essential points**, before developing them below. In this way, the Internet user quickly accesses the useful information, then they will progress to read the areas that interest them.
 
 []
 > The ideal web content
 
-Your introduction should not be more than a short paragraph, but it must summarise the essential information. It should be possible to read in an automatic way, as a brief thought. The rest of the article only exists to provide further details.
+Your introduction should not be more than a short paragraph, but it must summarise the essential information. It should be possible to read this in isolation, as a synopsis. The rest of the article only exists to provide further details.
 
 ### Adapt your tone to your audience
 
-**Capture the essence** of the people you are writing for. It is important to use a tone of voice that has been **carefully tailored** so that your readers will not be put off by a site with overly formal language, or on the other hand language that’s too familiar. Adopt **a personal style** that is neither too formal or commercial, so that you can easily communicate your points to the reader.
+**Capture the essence** of the people you are writing for. It is important to use a tone of voice that has been **carefully tailored** so that your readers will not be put off by a site with overly formal language, or on the other hand language that’s too familiar. Adopt **a personal style** that is neither too impersonal or commercial, so that you can easily communicate your points to the reader.
 
 Avoid too many repetitions, which will make the text flabby, instead make full use of the range of language that’s relevant to your subject. As well as making the reading more fluid, in this way your page will have a greater chance of appearing in a variety of search results.
 
@@ -48,8 +48,8 @@ The English language and a few good habits provide you with all the tools you ne
   Instead of saying "an excessive number" of words say "too many". Rather than saying "I’ll get in contact with your co-worker", say "I’ll call him".
 - **Connect verbs to their counterpart**.  
   For example "I went, despite the rain, to do some shopping in town" requires more effort from the reader than "Despite the rain, I went to do some shopping in town".
-- **Write as if it will be read out loud**.  
-  Instead of saying "this information will be utilized in determining the target audience" say "this information will determine the target audience".
+- **Write as directly as possible**.  
+  Instead of saying "this information will be utilized in identification of the target audience" say "this information will identify the target audience".
 - **Avoid subordinate clauses, interjections, sentences in brackets, the semi-colon and the colon** where they are being used as a means to provide additional information or a pause for breath in a sentence that is too long.
 
 #### Be clear
@@ -60,19 +60,19 @@ The English language and a few good habits provide you with all the tools you ne
   Nothing makes your point better than a good example. Avoid metaphors that can be misinterpreted.
 - **Use objective times and dates**  
   To ensure the relevance of your content, use "in December 2017" rather than "last month".
-- **Avoid clogging your sentences with special characters, acronyms, abbreviations or numerals** which can rapidly lose readers.
+- **Avoid clogging your sentences with acronyms, abbreviations or numerals** which can rapidly lose readers.
 
 ### Structure your points
 
-**Break your text into paragraphs** to separate ideas. **Organise your text into groups** and sub-groups that you can draw attention to with subtitles.
+**Break your text into paragraphs** to separate ideas. **Organise your text into sections** and sub-sections that you can draw attention to with subtitles.
 
-**Create space and use formatting tools** to make your content readable on a screen (titles, subtitles, graphs, bullet points).
+**Create space and use formatting tools** to make your content readable on a screen (titles, subtitles, bold text, bullet points).
 
 Internet users are generally happy to move diagonally across a page in order to quickly get a sense of the content, before dwelling longer if they consider it interesting. A clearly structured text will make this task easier for them and will create a higher chance of attracting their attention.
 
 #### Respect semantics
 
-The language of HTML, when used to describe webpages, is put together with tags that allow for the content to be structured in a way that’s understandable for web browsers, screen readers and search engines. Each one of these tags is a precise signifier for how the text will function upon the page (title, link, quotations, etc.).
+The HTML language, which is used to describe webpages, provide a set of tags that allow for the content to be structured in a way that’s understandable for web browsers, screen readers and search engines. Each one of these tags is a precise signifier for how the text will function upon the page (title, link, quotations, etc.).
 
 Editor formatting tools will help you to insert these tags into your content, but these should be **used for their purpose and not just for show**. For example:
 
@@ -81,14 +81,14 @@ Editor formatting tools will help you to insert these tags into your content, bu
 
 On the other hand, just because a paragraph has the appearance you want, that doesn’t mean that it has been correctly formatted. For example:
 
-- A bullet point list is not simply a series of lines all beginning with a full stop. Use the "Bullet list" editor’s tool, which will attach the appropriate tags in HTML.
+- A bullet point list is not simply a series of lines all beginning with an asterisk. Use the "Bullet list" editor’s tool, which will attach the appropriate tags in HTML.
 - Just because the titles appear in capital letters on your webpage, doesn’t mean that you should understand them as having been written in UPPER CASE.
 
-Sometimes the style of a website is automatically applied to your content. ­­­This type of forced formatting can render content less comprehensible for screen-readers and search engines and can be harmful if it is re-used in other media.
+Sometimes the style of a website is automatically applied to your content. ­­­This type of forced formatting can make content less comprehensible for screen-readers and search engines and can be harmful if it is re-used in other media.
 
 ### Make titles work for you
 
-Titles are one of the more important areas on your webpages. Naturally given precedence by their formatting, they allow visitors to understand where they are within the text as they are scrolling. They are equally taken into account and given great importance by search engines, therefore you should try to subtly slip in some keywords.
+Titles are one of the more important areas on your webpages. Naturally given precedence by their formatting, they allow visitors to understand where they are within the text as they are scrolling. In the same way, they are given great importance when considered by search engines, therefore you should try to subtly slip in some keywords.
 
 The main title of an article (headline) must be carefully chosen. It should ideally:
 
@@ -100,12 +100,12 @@ The main title of an article (headline) must be carefully chosen. It should idea
 - Contain keywords.  
   Search engines attach to the titles of your content in order to index webpages. Re-use these keywords within the body of the text to reinforce the coherence of the message.
 - Describe the contents of the page as clearly as possible and signal value. Create anticipation for the content below.
-- Have a unique message.  
+- Have a stand-alone message.  
   Due to the use of search engines, internet users can land directly on any given page, they should be able to immediately understand where they are.
 
-### Illustrate your points
+### Illustrate your content
 
-Use photos, graphs and graphics to illustrate and support your propositions. These images are often more effective than lengthy sentences and bring a new dimension to any webpage.
+Use photos, graphs and graphics to illustrate and support your subject matter. These images are often more effective than lengthy sentences and bring a new dimension to any webpage.
 
 Prioritise images that are informative. Wherever possible, include a concise caption to give the image context.
 
@@ -140,7 +140,7 @@ In terms of referencing, some links will work better than others. In fact, searc
 
 ### Bring something more
 
-Your site will not interest your readers if it doesn’t convey **relevant, valuable information**. At least if it’s not offering exclusive information, something more than a description of products and services. Include in your content an analysis or a personal opinion on the relevant subjects.
+Your site will not interest your readers if it doesn’t convey **relevant, valuable information**. Except when offering exclusive information about your products or services, include in your content an analysis or a personal opinion on the relevant subjects.
 
 If you only want to repeat information that’s available on another site, just use your Facebook page or Twitter account.
 
@@ -151,13 +151,17 @@ There is nothing more frustrating than a website chock-full of spelling mistakes
 Equally, make sure to respect the typographical rules that apply to the English language, notably:
 
 - With the exception of acronyms, words written in capitals are not allowed. On the Internet, they are generally interpreted as shouting.
-- Multiple punctuation marks should be preceded and followed by a space.
+- Follow punctuation spacing rules:
+  - No space before and only one space after a comma, full stop, ellipsis, colon, semicolon, question mark or exclamation mark.
+  - No space before or after an apostrophe, an hyphen and a slash.
+  - Dashes are preceded and followed by a space.
+  - One space on the outside, no space on the inside of parentheses, square brackets and double quotes.
 
 Carefully check that your links are working correctly and that your images are sitting well within the content.
 
 **Prioritise content quality** over quantity, both in terms of style and substance, in order to attract new visitors.
 
-### Rights of the author
+### Copyright
 
 Always be sure to cite (and link, where possible) the source of your information or media.
 
