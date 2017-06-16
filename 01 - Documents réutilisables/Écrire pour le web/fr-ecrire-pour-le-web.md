@@ -4,13 +4,7 @@
 
 ## La lecture sur le web
 
-Sur un écran, l’oeil suit une trajectoire aléatoire :
-
-
-[]
-> Source - Exemple d’étude du parcours de lectures des internautes grâce aux techniques d’eye-tracking.
-
-Il faut donc guider sa lecture grâce à un texte structuré (titres, sous-titres), qui accroche l’oeil (caractère gras, liens) et permette de donner un maximum d’informations en un coup d’oeil.
+Sur un écran, l’oeil suit une trajectoire aléatoire. Il faut donc guider sa lecture grâce à un texte structuré (titres, sous-titres), qui accroche l’oeil (caractère gras, liens) et permette de donner un maximum d’informations en un coup d’oeil.
 
 On qualifie souvent les moteurs de recherche de « premiers aveugles du web », car ils ne peuvent indexer que des contenus textuels. Il faut donc baliser leur chemin pour qu’ils puissent analyser et indexer vos contenus de la meilleure façon.
 
@@ -22,9 +16,6 @@ Le soin que vous apporterez à la rédaction des contenus de votre site est un �
 ### Commencer par la conclusion
 
 **Allez droit au but**. Évitez d'introduire un sujet par un texte d'accueil inconsistant ou par des précautions d'usage. Un texte pour le Web doit être écrit "à l'envers", présentant **d'abord les points essentiels** avant de les développer. De cette manière, l'internaute accède rapidement à l'information utile puis il continue la lecture des points pour lesquels il souhaite des compléments.
-
-[]
-> Le contenu web idéal
 
 Votre introduction ne doit pas dépasser un court paragraphe, mais elle doit résumer l'essentiel de l'information. Elle doit pouvoir être lue de manière autonome, comme une brève. Le reste de l'article ne fait qu'apporter plus de détails.
 

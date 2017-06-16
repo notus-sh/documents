@@ -3,12 +3,7 @@
 
 ## Reading on the internet
 
-On a screen, the eye follows a random trajectory:
-
-[]
-> Source – example of a study on the reading behaviours of Internet users, made possible by eye tracking techniques.
-
-One should therefore guide the reader with a structured text (titles, subtitles) that attracts the eye (and its heavy, sticky characteristics) and allows us to communicate the maximum amount of information at a single glance.
+On a screen, the eye follows a random trajectory. One should therefore guide the reader with a structured text (titles, subtitles) that attracts the eye (and its heavy, sticky characteristics) and allows us to communicate the maximum amount of information at a single glance.
 
 We typically refer to search engines as the **blindest web users**, because they are only able to index content that appears as text. We must therefore accommodate their methods so that they are able to analyse and index your content in the best way.
 
@@ -20,9 +15,6 @@ The care that you bring to the writing of content on your site is a fundamental 
 ### Start at the end
 
 **Get straight to the point**. Avoid introducing a subject with an ambiguous welcoming paragraph or foreword. A text for the web should be written "upside down", presenting **above all the most essential points**, before developing them below. In this way, the Internet user quickly accesses the useful information, then they will progress to read the areas that interest them.
-
-[]
-> The ideal web content
 
 Your introduction should not be more than a short paragraph, but it must summarise the essential information. It should be possible to read this in isolation, as a synopsis. The rest of the article only exists to provide further details.
 
