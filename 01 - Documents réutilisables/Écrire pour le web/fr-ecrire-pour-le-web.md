@@ -186,7 +186,8 @@ Ce guide a été rédigé à partir des bonnes pratiques couramment employées a
 - [Ecrire pour le référencement et pour les internautes](http://www.webrankinfo.com/dossiers/redaction/referencement-editorial)
 - [Ecrire pour les moteurs... Mais d'abord pour les visiteurs](http://s.billard.free.fr/referencement/?2005/07/29/122-ecrire-pour-les-moteurs-mais-dabord-pour-les-visiteurs)
 - [10 principes de rédaction web pour écrire plus clairement](http://www.ecrirepourleweb.com/10-principes-de-redaction-web-pour-ecrire-plus-clairement/)
-- [Don't Click Here: The Art of Hyperlinking](http://www.codinghorror.com/blog/2007/11/dont-click-here-the-art-of-hyperlinking.html) (en anglais)
+- [Don't Click Here: The Art of Hyperlinking](https://blog.codinghorror.com/dont-click-here-the-art-of-hyperlinking/) (en anglais)
+- [Bonnes pratiques concernant les liens pour Google](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=fr)
 
 
 [^1]:
